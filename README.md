@@ -16,7 +16,6 @@ I'm a full-stack software engineer and the founder of **Centrali**, a data platf
 
 ### 🌱 I’m currently learning
 - Real-time data processing pipelines
-- Usage-based billing models with Stripe integration
 - Deep integrations with OpenTelemetry for tracing and logging
 - Better UI/UX patterns with Ant Design, Recoil, and React
 
