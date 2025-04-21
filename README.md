@@ -10,7 +10,7 @@ I'm a full-stack software engineer and the founder of **Centrali**, a data platf
 - Developer UX (from API playgrounds to system notices)
 - AI-augmented dev tools and content editors
 - Self-hostable, privacy-conscious infrastructure
-- Making billing, auth, and debugging less painful
+- Making debugging less painful
 
 ---
 
