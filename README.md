@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @buildwithmary
 
-I'm a full-stack software engineer and the founder of **Centrali**, a data platform for modern teams to manage structures, records, compute, and share files at scale. I specialize in designing scalable backend systems, secure authentication flows, and developer-friendly APIs.
+I'm a full-stack software engineer and the founder of **Centrali**, a data platform for modern teams to manage structures, records, compute, and files at scale. I specialize in designing scalable backend systems, secure authentication flows, and developer-friendly APIs.
 
 ---
 
