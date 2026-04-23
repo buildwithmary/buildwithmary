@@ -12,7 +12,7 @@ I use this space to share side projects, experiments, notes, and open-source wor
 - Developer-friendly APIs and internal tooling
 - Authentication, authorization, OIDC, and OAuth2
 - Observability with logging, tracing, and metrics
-- TypeScript, Node.js, React, and cloud-native development
+- TypeScript, Node.js, Go, Python, Next.js, React, and cloud-native development
 - AI-assisted development workflows
 - Making debugging and operations less painful
 
