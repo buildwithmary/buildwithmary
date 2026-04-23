@@ -1,45 +1,55 @@
-# 👋 Hi, I’m @buildwithmary
+# 👋 Hi, I’m Mary
 
-I'm a full-stack software engineer and the founder of **Centrali**, a data platform for modern teams to manage structures, records, compute, and files at scale. I specialize in designing scalable backend systems, secure authentication flows, and developer-friendly APIs.
+I’m a full-stack software engineer interested in backend systems, developer tooling, authentication, observability, and practical product engineering.
+
+I use this space to share side projects, experiments, notes, and open-source work around building reliable software.
 
 ---
 
 ### 👀 I’m interested in
-- Building microservice architectures that *just work*
-- Open standards like OIDC, OAuth2, and OpenTelemetry
-- Developer UX (from API playgrounds to system notices)
-- AI-augmented dev tools and content editors
-- Self-hostable, privacy-conscious infrastructure
-- Making debugging less painful
+
+- Backend systems and distributed application design
+- Developer-friendly APIs and internal tooling
+- Authentication, authorization, OIDC, and OAuth2
+- Observability with logging, tracing, and metrics
+- TypeScript, Node.js, React, and cloud-native development
+- AI-assisted development workflows
+- Making debugging and operations less painful
 
 ---
 
-### 🌱 I’m currently learning
-- Real-time data processing pipelines
-- Deep integrations with OpenTelemetry for tracing and logging
-- Better UI/UX patterns with Ant Design, Recoil, and React
+### 🌱 I’m currently exploring
+
+- Better patterns for event-driven systems
+- OpenTelemetry for tracing and diagnostics
+- Practical AI tooling for software teams
+- Cleaner UI/UX patterns for developer-facing products
+- Reliable infrastructure patterns for small teams
 
 ---
 
-### 💞️ I’m looking to collaborate on
-- Self-hosted SaaS infrastructure and dev tools
-- TypeScript-heavy Node.js backends (Knex, Fastify, etc.)
-- Authentication systems with custom OIDC flows
-- Open-source UI kits for internal tooling
+### 🛠️ Things I like building
+
+- Developer tools
+- API-first applications
+- Internal platforms
+- Workflow automation
+- Auth and identity experiments
+- Small utilities that make engineering work easier
 
 ---
 
 ### 📫 How to reach me
+
 - LinkedIn: [linkedin.com/in/maryolowu](https://www.linkedin.com/in/maryolowu)
-- GitHub Discussions, Issues, or PRs
-- Via dev-focused Discords or communities — ask!
+- GitHub Issues, Discussions, or PRs
 
 ---
 
 ### 😄 Pronouns
+
 She/her
 
----
 
 ### ⚡ Fun fact
 I built a full identity platform *twice* — once with Keycloak and once from scratch. Guess which one I’m still using? 😅
